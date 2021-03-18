@@ -1,2 +1,1 @@
-# Android Team Project
-# covid-19
+# Android Team Project 'covid-19'
